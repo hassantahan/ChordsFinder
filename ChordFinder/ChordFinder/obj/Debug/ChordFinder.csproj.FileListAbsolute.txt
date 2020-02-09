@@ -1,0 +1,12 @@
+C:\Users\Hassan Tahan\AppData\Local\Temporary Projects\ChordFinder\bin\Debug\ChordFinder.exe.config
+C:\Users\Hassan Tahan\AppData\Local\Temporary Projects\ChordFinder\bin\Debug\ChordFinder.exe
+C:\Users\Hassan Tahan\AppData\Local\Temporary Projects\ChordFinder\bin\Debug\ChordFinder.pdb
+C:\Users\Hassan Tahan\AppData\Local\Temporary Projects\ChordFinder\obj\Debug\ChordFinder.csprojResolveAssemblyReference.cache
+C:\Users\Hassan Tahan\AppData\Local\Temporary Projects\ChordFinder\obj\Debug\ChordFinder.exe
+C:\Users\Hassan Tahan\AppData\Local\Temporary Projects\ChordFinder\obj\Debug\ChordFinder.pdb
+M:\Hassan\Personal Folders\Programs\Random Stuff\ChordFinder\ChordFinder\ChordFinder\bin\Debug\ChordFinder.exe.config
+M:\Hassan\Personal Folders\Programs\Random Stuff\ChordFinder\ChordFinder\ChordFinder\obj\Debug\ChordFinder.exe
+M:\Hassan\Personal Folders\Programs\Random Stuff\ChordFinder\ChordFinder\ChordFinder\obj\Debug\ChordFinder.pdb
+M:\Hassan\Personal Folders\Programs\Random Stuff\ChordFinder\ChordFinder\ChordFinder\bin\Debug\ChordFinder.exe
+M:\Hassan\Personal Folders\Programs\Random Stuff\ChordFinder\ChordFinder\ChordFinder\bin\Debug\ChordFinder.pdb
+M:\Hassan\Personal Folders\Programs\Random Stuff\ChordFinder\ChordFinder\ChordFinder\obj\Debug\ChordFinder.csprojResolveAssemblyReference.cache
